@@ -1,0 +1,14 @@
+{
+  "name": "belajar-typescript",
+  "version": "1.0.0",
+  "description": "Belajar Typescript",
+  "type": "module",
+  "scripts": {
+    "start": "tsc && node"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/binarstrike/belajar-typescript.git",
+  "author": "Binar Nugroho <92077948+binarstrike@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false
+}
