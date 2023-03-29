@@ -4,7 +4,8 @@
   "description": "Belajar Typescript",
   "type": "module",
   "scripts": {
-    "start": "tsc && node"
+    "start": "node",
+    "transpile": "tsc"
   },
   "main": "index.js",
   "repository": "https://github.com/binarstrike/belajar-typescript.git",
