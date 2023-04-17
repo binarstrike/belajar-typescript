@@ -11,5 +11,8 @@
   "repository": "https://github.com/binarstrike/belajar-typescript.git",
   "author": "Binar Nugroho <92077948+binarstrike@users.noreply.github.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
 }
